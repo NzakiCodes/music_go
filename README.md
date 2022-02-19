@@ -1,3 +1,4 @@
-# Music Website Template
+# Music Website Landing Page
 
-### Still on development
+### 
+[https://music-go-x.netlify.app/](https://music-go-x.netlify.app/)
